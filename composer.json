@@ -4,11 +4,11 @@
     "description": "Flexible and highly usable filter library with no dependencies.",
     "keywords": ["filter", "filtering"],
     "homepage": "http://github.com/particle-php/Filter",
-    "license" : "BSD",
+    "license" : "BSD-3-Clause",
     "authors": [
         {
             "name": "Berry Langerak",
-            "email": "berry@berryllium.nl",
+            "email": "berry.langerak@gmail.com",
             "role": "Developer"
         },
         {
